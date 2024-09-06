@@ -1,6 +1,6 @@
 ## Simulation of the Lorenz equations
 
-Update of [original project](https://github.com/BuiltWithGenie/LorenzEquations) with fixed indexing for new version of DifferentialEquations integrator indexing, faded markers, faster and less accurate solver (BS3)
+Update of [original project](https://github.com/BuiltWithGenie/LorenzEquations) with fixed integrator indexing for new version of DifferentialEquations, faded markers, faster and less accurate solver (BS3)
 
 https://github.com/user-attachments/assets/923cc9c9-60bc-4fc9-8033-847e5e20fd0f
 
