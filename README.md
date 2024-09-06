@@ -1,8 +1,8 @@
 ## Simulation of the Lorenz equations
 
-Dashboard showing a real-time simulation of the Lorenz equations.
+Update of [original project](https://github.com/BuiltWithGenie/LorenzEquations) with fixed indexing for new version of DifferentialEquations integrator indexing, faded markers, faster and less accurate solver (BS3)
 
-![preview](lorenz.gif)
+https://github.com/user-attachments/assets/923cc9c9-60bc-4fc9-8033-847e5e20fd0f
 
 ## Installation
 
